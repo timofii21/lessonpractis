@@ -1,5 +1,6 @@
 mod tree;
-mod treebiger;
+
+mod treebiger1;
 
 fn main() {
     println!("Hello, world!");
